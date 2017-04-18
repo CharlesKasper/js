@@ -1,6 +1,32 @@
 body{
-    height: 
+    height: auto;;
+    width:aut0:
     justify-content: center;
     font-size: 16pts;
-    f
+}
+
+header{
+background-color: ffffff;
+height: 10%;
+width: inherit;
+}
+
+footer{
+    background-color: ffffff
+    height:10%;
+    width: inherit;
+}
+
+div{
+    height:;
+    width:;
+}
+
+.head{
+    height
+    width:
+}
+
+.foot{
+
 }
